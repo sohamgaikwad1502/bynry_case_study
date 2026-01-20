@@ -1,11 +1,13 @@
 # StockFlow - Backend Engineering Case Study
 
-**Submitted by:** [Your Name]  
+**Submitted by:** Soham Gaikwad 
 **Role:** Backend Engineering Intern Applicant  
 **Date:** January 2026
 
 ## 📌 Overview
 This repository contains the solution for the **StockFlow Backend Case Study**. The project focuses on fixing a broken legacy codebase, designing a scalable database schema for a multi-warehouse inventory system, and implementing a high-performance API for low-stock alerts.
+
+**Google Docs Link** - https://docs.google.com/document/d/12s0g-eW4B0eeQerzxaetYGa56eEtRGZYWWJt_CxV-hM/edit?usp=sharing
 
 ### 🗂 Table of Contents
 - [Part 1: Code Review & Debugging](#-part-1-code-review--debugging)
